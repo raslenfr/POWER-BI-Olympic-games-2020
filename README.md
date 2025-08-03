@@ -95,15 +95,7 @@ Welcome to my Power BI project focused on the **2020 Tokyo Olympic Games**. This
 ## 📺 Watch Demo on YouTube
 
 Check out a walkthrough of this dashboard on my YouTube channel:  
-➡️ [@raslenferchihi](https://www.youtube.com/@raslenferchihi)
-
----
-
-## 👨‍💻 About Me
-
-**Author:** Raslen Ferchichi  
-**GitHub:** [CoderHive](https://github.com/CoderHive)  
-**YouTube:** [@raslenferchihi](https://www.youtube.com/@raslenferchihi)
+👨‍💻 [@raslenferchihi](https://www.youtube.com/@raslenferchihi)
 
 ---
 
