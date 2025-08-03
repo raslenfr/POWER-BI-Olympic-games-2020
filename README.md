@@ -1,16 +1,15 @@
-# 🏅 Tokyo 2020 Olympics - Power BI Dashboard
+# 🏅 Tokyo 2020 Olympics Power BI Dashboard
 
-Welcome to my Power BI project built around the **Tokyo 2020 Olympics**.  
-This interactive dashboard explores key statistics such as athlete performance, team insights, gender participation, medal distribution, and more—fully powered by **DAX measures** and modern visuals.
+Welcome to my Power BI project focused on the **2020 Tokyo Olympic Games**. This interactive dashboard delivers a deep dive into athlete performance, medal distribution, team analytics, and global insights — all powered by DAX and engaging Power BI visuals.
 
 ---
 
-## 📂 Project Information
+## 📌 Project Overview
 
-- **Tool Used:** Microsoft Power BI
-- **File Included:** `.pbix` (Power BI project file)
-- **Data:** Embedded directly within the `.pbix` file (no external connection)
-- **Tables Used:**
+- **Tool:** Microsoft Power BI
+- **File:** `.pbix` (self-contained with embedded dataset)
+- **Theme:** Olympic-themed visuals and background
+- **Core Data Tables:**
   - `Fact`
   - `Athletes`
   - `Coaches`
@@ -20,94 +19,97 @@ This interactive dashboard explores key statistics such as athlete performance, 
 
 ---
 
-## 🖥️ Dashboard Interfaces
+## 🧭 Dashboard Structure
 
-### 🏠 1. Home Page
-- Olympic-themed background for immersive design
+### 1️⃣ Home Page
+- Olympic-themed background
 - Two navigation buttons:
-  - ➡️ Go to *Athlete & Team Performance*
-  - ➡️ Go to *Medal Insights*
+  - ➤ *Athlete & Team Performance*
+  - ➤ *Medal & Country Insights*
 
 ---
 
-### 🧍‍♂️ 2. Athlete & Team Performance
+### 2️⃣ Athlete & Team Performance
 
-#### 🔧 Slicers:
-- **Athlete Nationality** (with optional "blank" selection)
-- **Discipline (Sport)** list
-- **Rank Range** (1 to 86) – adjustable slider
+🔎 **Slicers / Filters:**
+- Athlete nationality (multi-select with blank option)
+- Sports/Discipline selector
+- Rank range (1–86) with adjustable slider
 
-#### 📊 Visuals:
-- **Treemap**: Total medals by nationality
-- **Pie Chart**: Gender distribution (Female vs. Male)
-- **Donut Chart**: Gold medals by country (percentage view)
+📊 **Visuals:**
+- Treemap: Total medals by nationality
+- Pie Chart: Gender distribution (Male vs. Female)
+- Donut Chart: Gold medals by team nationality (percentage view)
 
-#### 📈 KPIs:
+📈 **KPIs:**
 - Total athlete nationalities
-- Number of athlete names
-- Total sports disciplines
-- Number of women participants
-- Number of men participants
+- Total athletes
+- Number of sports
+- Female participants
+- Male participants
 
-#### 🔗 Navigation:
-- 🔙 Home
-- ➡️ Medal Insights
-
----
-
-### 🏆 3. Medal & Country Insights *(Suggested Title: “Global Medal Insights”)*
-
-#### 📈 KPIs:
-- Total **Bronze** medals
-- Total **Silver** medals
-- Total **Gold** medals
-
-#### 📊 Visuals:
-- **Matrix Table**: Country (team nationality) vs. Performance Quintile
-- **Stacked Area Chart**: Medals per athlete by nationality
-- **Line Chart**: Moving average of medals per athlete (by rank)
-- **Stacked Bar Chart**: Number of sports vs. number of athletes per sport
-- **Azure Map**: Geographic location of countries (circle size = athlete count)
-
-#### 🔗 Navigation:
-- 🔙 Home
-- ⬅️ Back to Athlete Performance
+🔗 **Navigation:**
+- 🏠 Home
+- 👉 Next Page (Medal Insights)
 
 ---
 
-## 💡 Features
+### 3️⃣ Medal & Country Insights *(Suggested Title: Global Medal Insights)*
 
-- 🎯 Clean, thematic design with interactive elements
-- ⚙️ Advanced filtering using slicers
-- 📊 Custom DAX measures and KPIs
-- 🗺️ Geographic data visualization with Azure Maps
-- 🧭 Smooth page-to-page navigation
+📈 **KPIs:**
+- Total Bronze Medals
+- Total Silver Medals
+- Total Gold Medals
 
----
+📊 **Visuals:**
+- Matrix: Country vs. Performance Quintile
+- Stacked Area Chart: Medals per athlete by nationality
+- Line Chart: Moving average of medals per athlete by rank
+- Stacked Bar Chart: Number of sports vs. athlete count
+- Azure Map: Athlete distribution by country (bubble size = participants)
 
-## 🚀 Getting Started
-
-1. Download or clone the repository.
-2. Open the `.pbix` file using **Power BI Desktop**.
-3. Interact with slicers, hover over visuals, and navigate through pages.
-
----
-
-## 📷 Dashboard Preview
-
-> _Tip: Add screenshots or a GIF preview of the dashboard here for better engagement._
+🔗 **Navigation:**
+- 🏠 Home
+- 🔙 Back to Performance Page
 
 ---
 
-## 🙋 About the Author
+## ✨ Key Features
 
-**👨‍💻 Raslen Ferchichi**  
-🔗 YouTube Channel: [[[CoderHive]([https://www.youtube.com/@CoderHive](https://www.youtube.com/@raslenferchihi))  ](https://www.youtube.com/@raslenferchihi)](https://www.youtube.com/@raslenferchihi)
-🎓 IT Student | Power BI Enthusiast | Data Storyteller
+- 🔹 Interactive visuals and slicers
+- 🔹 Embedded dataset (no external files required)
+- 🔹 DAX-driven KPIs for dynamic insights
+- 🔹 Page-to-page navigation
+- 🔹 Geo-analysis with Azure Map
 
 ---
 
-## 📜 License
+## 🚀 How to Use
 
-This project is provided for educational and portfolio use. Not licensed for commercial redistribution.
+1. Download or clone this repository.
+2. Open the `.pbix` file in **Power BI Desktop**.
+3. Use the built-in buttons and slicers to explore the insights.
 
+---
+
+## 📺 Watch Demo on YouTube
+
+Check out a walkthrough of this dashboard on my YouTube channel:  
+➡️ [@raslenferchihi](https://www.youtube.com/@raslenferchihi)
+
+---
+
+## 👨‍💻 About Me
+
+**Author:** Raslen Ferchichi  
+**GitHub:** [CoderHive](https://github.com/CoderHive)  
+**YouTube:** [@raslenferchihi](https://www.youtube.com/@raslenferchihi)
+
+---
+
+## 🛑 License
+
+This project is shared for educational and portfolio purposes only.  
+Commercial use is not permitted.
+
+---
