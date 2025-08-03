@@ -102,7 +102,7 @@ This interactive dashboard explores key statistics such as athlete performance, 
 ## 🙋 About the Author
 
 **👨‍💻 Raslen Ferchichi**  
-🔗 YouTube Channel: [CoderHive]([https://www.youtube.com/@CoderHive](https://www.youtube.com/@raslenferchihi))  
+🔗 YouTube Channel: [[[CoderHive]([https://www.youtube.com/@CoderHive](https://www.youtube.com/@raslenferchihi))  ](https://www.youtube.com/@raslenferchihi)](https://www.youtube.com/@raslenferchihi)
 🎓 IT Student | Power BI Enthusiast | Data Storyteller
 
 ---
