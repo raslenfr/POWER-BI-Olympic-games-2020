@@ -54,7 +54,7 @@ Welcome to my Power BI project focused on the **2020 Tokyo Olympic Games**. This
 
 ---
 
-### 3️⃣ Medal & Country Insights *(Suggested Title: Global Medal Insights)*
+### 3️⃣ Global Medal & Country Insights
 
 📈 **KPIs:**
 - Total Bronze Medals
